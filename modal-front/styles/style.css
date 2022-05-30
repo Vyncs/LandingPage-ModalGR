@@ -13,7 +13,7 @@ font-family: 'Noto Sans KR', sans-serif; 500*/
 }
 
 .section-apresentacao{
-    background-image: url(/images/background-header.png);
+    background-image: url(../images/background-header.png);
     background-repeat: no-repeat;
     background-size: 100%;
     height: 100%;
@@ -293,7 +293,7 @@ form h2{
     border-style: none;
 }
 .section-formulario{
-    background-image: url(/images/background-formulario.png);
+    background-image: url(../images/background-formulario.png);
     width: 100%;
     height: 700px;
 }
